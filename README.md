@@ -2,8 +2,8 @@
 Vechile Route planner using OR algorithm and GUI with PyQt6
 The Resource code can be found on master branch.
 <p float="center">
-  <img src="https://github.com/BBBakir/RoutePlanner/assets/92781750/e9872c7d-59c7-43c6-9f1a-36e557014a4a" width="200" height="100px" />
-  <img src="https://github.com/BBBakir/RoutePlanner/assets/92781750/0f6457d1-fe91-4e7d-b63a-87982818257a" width="200" height="100px"/> 
+  <img src="https://github.com/BBBakir/RoutePlanner/assets/92781750/e9872c7d-59c7-43c6-9f1a-36e557014a4a" width="200" height="50px" />
+  <img src="https://github.com/BBBakir/RoutePlanner/assets/92781750/0f6457d1-fe91-4e7d-b63a-87982818257a" width="200" height="50px"/> 
 </p>
 
 The OR model use page
