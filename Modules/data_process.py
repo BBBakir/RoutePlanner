@@ -20,7 +20,7 @@ def read_and_process_matrix(file_path):
 
 
 def create_mappings(file_path):
-    df = pd.read_csv(file_path, index_col=0)
+    df = pd.read_csv(resource_path(file_path), index_col=0)
     city_to_index = {city: index for index, city in enumerate(df.index)}
     index_to_city = {index: city for index, city in enumerate(df.index)}
     return city_to_index, index_to_city
