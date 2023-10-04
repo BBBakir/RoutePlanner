@@ -12,7 +12,8 @@ The OR model use page
 Main Route Determine For Vechiles
 ![image](https://github.com/BBBakir/RoutePlanner/assets/92781750/d20a37bc-b614-49fb-b017-634871874d38)
 
-This project uses [OR-Tools](https://developers.google.com/optimization) licensed under the [Apache 2.0 License](./LICENSE-OR-TOOLS.txt).
-This project uses [PyQt6](https://www.riverbankcomputing.com/software/pyqt/intro) licensed under the [GNU GPL License](./LICENSE-PyQt6.txt).
+This project uses [OR-Tools](https://developers.google.com/optimization) licensed under the [Apache 2.0 License](https://github.com/BBBakir/RoutePlanner/blob/master/LICENSE-OR-TOOLS.txt).
+
+This project uses [PyQt6](https://www.riverbankcomputing.com/software/pyqt/intro) licensed under the [GNU GPL License](https://github.com/BBBakir/RoutePlanner/blob/master/LICENSE-PyQt6.txt).
 
 
