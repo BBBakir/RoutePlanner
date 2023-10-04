@@ -1,0 +1,92 @@
+QPushButton{{
+    border-radius: 3px;
+    border: 1px solid #000000;
+    background-color: #ffffff ;
+    text-decoration-color: black;
+    color:black;
+}}
+
+QPushButton:hover {{
+    background-color: #CC1F145D;
+    color: white;
+}}
+
+/* Specific Buttons */
+QPushButton#DeleteRecord {{
+    color: black;
+    background-color: #ffffff;
+
+}}
+
+QPushButton#DeleteRecord:hover {{
+    background-color: #CCDC3545;
+    color: white;
+}}
+
+QPushButton#DeleteRecord:pressed {{
+    background-color: #DC3545;
+    color: white;
+}}
+
+QPushButton#ClearRecord {{
+    color: black;
+    background-color: #ffffff;
+
+}}
+
+QPushButton#ClearRecord:hover {{
+    background-color: #CCDC3545;
+    color: white;
+}}
+
+QPushButton#ClearRecord:pressed {{
+    background-color: #DC3545;
+    color: white;
+}}
+
+QPushButton#PricingClear {{
+    color: black;
+    background-color: #ffffff;
+
+}}
+
+QPushButton#PricingClear:hover {{
+    background-color: #CCDC3545;
+    color: white;
+}}
+
+QPushButton#PricingClear:pressed {{
+    background-color: #DC3545;
+    color: white;
+}}
+
+QLineEdit#ExcelPath {{
+        border: 1px solid #939393;
+        border-radius: 3px;
+    }}
+
+QLineEdit#PricingExcelPath {{
+        border: 1px solid #939393;
+        border-radius: 3px;
+    }}
+/* Table */
+
+
+
+/* Title */
+QLabel#RoutePlannerTitle {{
+    font-size: 32px;
+}}
+QLabel#PricingTitle {{
+    font-size: 32px;
+}}
+
+QLabel#label_2 {{
+    font-size: 32px;
+}}
+
+QPushButton#languageButton:hover {{
+    background-color: #CC1F145D;
+    color: white;
+}}
+
