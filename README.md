@@ -1,5 +1,5 @@
 # RoutePlanner
-Vehicle Route planner using OR algorithm and GUI with PyQt6
+Vehicle Route planner using OR algorithm and GUI with PyQt6.
 The Resource code can be found on master branch.
 <p float="center">
   <img src="https://github.com/BBBakir/RoutePlanner/assets/92781750/e9872c7d-59c7-43c6-9f1a-36e557014a4a" width="225" height="50px"  style="margin-right:20px;"/>
